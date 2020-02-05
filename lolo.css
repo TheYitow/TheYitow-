@@ -1,0 +1,46 @@
+body
+ {background: url(imagenes/icono.jpeg);
+ 
+
+}
+h1{
+  font-size:50px;
+  color:#0DA6CD;
+}
+
+
+li a  {
+   color:#06E7DE;
+  font-size: 13px;
+}
+
+footer{
+  color:#000000;
+  background:#366963;
+  height:70px;
+  border:16px solid #28766C;s
+}
+
+
+
+h3
+{
+  font-size:30px;
+  color:#ffffff;
+}
+ 
+h2{
+  font-size:35px;
+  color:white;
+
+
+
+}
+div{
+  color: #000000;
+  background:#0D8883;
+  width:250px;
+  
+}
+
+
